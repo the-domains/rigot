@@ -1,7 +1,7 @@
 name: RIGOT
 favicon: null
-layout_spectrum: 0.27506398502737284
-typography_spectrum: 0.19664021069183946
+layout_spectrum: 1
+typography_spectrum: 0.2024
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.27968305558897555
+    - '#f4f4f4'
+    - '#2c2c2c'
+    - '#000000'
+    - '#6b6b6b'
+    - '#c4c4c4'
+  brandStrength: 1
   lightness: 0.6172254411503673
-  saturation: 0.5028077366296202
+  saturation: 0
   rhythmicContrast: 0.9756875436287373
 purpose: []
